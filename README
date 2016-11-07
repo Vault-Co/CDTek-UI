@@ -1,6 +1,7 @@
 Tek-UI V1.12
 
-Standalone Desktop Operating System For Any Device Written In Lua
+Cross-Platform Standalone Desktop Operating System For Any Device Written In Lua
+Underlying Engine Framework All in ANSI C 
 
 This is a stable version of Tek-UI which is usually undergoing rapid changes
 in it's original repository. By saving it here in advance we can assure it
