@@ -1,12 +1,19 @@
-Tek-UI V1.12
+#Tek-UI V1.12
 
 Standalone Desktop Operating System For Any Device Written In Lua
 
-This is a stable version of Tek-UI which is usually undergoing rapid changes in it's original repository. By saving it here in advance we can assure it remains compatible with the CD-OS System Server when released.
+This is a stable version of Tek-UI which is usually undergoing rapid changes
+in it's original repository. By saving it here in advance we can assure it
+remains compatible with the CD-OS System Server when released.
 
-This console is designed to plug-in via the CD-OS IPC mechanism like any other service so it can be launched by the web server when it boots the same way other hardware services are booted up.
+This console is designed to plug-in via the CD-OS IPC mechanism like any
+other service so it can be launched by the web server when it boots the
+same way other hardware services are booted up.
 
-This has been tested with Ming32 compiler and the Visual Studio 2010 compiler, consolidated builds to be committed soon. It has been tested on Raspberry-PI as well as the Orange ARM Boards, Windows XP and PC-BSD to make sure the framebuffer display works.
+This has been tested with Ming32 compiler and the Visual Studio 2010 compiler,
+consolidated builds to be committed soon. It has been tested on Raspberry-PI
+as well as the Orange ARM Boards, Windows XP and PC-BSD to make sure the
+framebuffer display works.
 
 == Table of contents ==
 
